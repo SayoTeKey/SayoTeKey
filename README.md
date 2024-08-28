@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-I'm Sayo a UX-Designer with special interest in ✨ accessibility and human centered design. ✨ 
-                                       
+I'm Sayo a UX-Designer with special interest in ✨accessibility & human centered design.✨ 
+
+
+🐆 🐗 🐖 🐌 🦔 🐑
+
 <pre>
                                                                  
 ⠀⠀⠀⠀⠀⠀⠀⠈⠡⡀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣄⠳⡜⣘⠤⢳⡘⡔⢣⡇⠀⠀⠀⠀⠀⠀⠀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠰⢂
