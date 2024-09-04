@@ -2,6 +2,11 @@
 
 I'm Sayo a UX-Designer with special interest in ✨accessibility & human centered design.✨ 
 
+🔭 I’m currently working on my repositories
+🌱 I’m currently learning to code better
+💬 Ask me about u want to 
+😄 Pronouns: she/her
+ ⚡ Fun fact: don´t give me a plant, it will die 
 
 🐆 🐗 🐖 🐌 🦔 🐑
 
@@ -52,12 +57,12 @@ I'm Sayo a UX-Designer with special interest in ✨accessibility & human centere
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 
+- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 
+-
 -->
