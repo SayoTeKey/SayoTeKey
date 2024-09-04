@@ -3,9 +3,13 @@
 I'm Sayo a UX-Designer with special interest in ✨accessibility & human centered design.✨ 
 
 🔭 I’m currently working on my repositories
+
 🌱 I’m currently learning to code better
+
 💬 Ask me about u want to 
+
 😄 Pronouns: she/her
+
  ⚡ Fun fact: don´t give me a plant, it will die 
 
 🐆 🐗 🐖 🐌 🦔 🐑
