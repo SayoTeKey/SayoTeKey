@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 I'm Sayo a UX-Designer with special interest in ✨accessibility & human centered design.✨ 
-
+✨UX is a matter of settings ✨
+______________________________________________
 🔭 I’m currently working on my repositories
 
 🌱 I’m currently learning to code better
