@@ -9,7 +9,7 @@ ______________________________________________
 
 💬 Ask me about u want to 
 
-😄 Pronouns: she/her
+
 
  ⚡ Fun fact: don´t give me a plant, it will die 
 
@@ -70,6 +70,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - ...
 - 📫 How to reach me: ...
-- 
+- 😄 Pronouns: she/her
 -
 -->
