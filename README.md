@@ -30,7 +30,7 @@ my current tools:
 
 my current ways for communication:
 
-![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white) ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?logo=google-meet&logoColor=white)  ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white) ![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?logo=Skype&logoColor=white) ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white) ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?logo=google-meet&logoColor=white)  ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white) ![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?logo=Skype&logoColor=white) ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white) ![TeamSpeack](https://img.shields.io/badge/TeamSpeack-2580C3?logo=teamspeak&logoColor=white) ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white) 	![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white)  ![Messenger](https://img.shields.io/badge/Messenger-00B2FF?logo=messenger&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white) 	![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?logo=Instagram&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)
 
 <!--
 <pre>
