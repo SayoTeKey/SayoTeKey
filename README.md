@@ -5,14 +5,11 @@ I'm Sayo an UX-designer and future frontend-developer with special interest in �
 ✨UX is a matter of settings ✨
 ______________________________________________
 🔭 I’m currently working on my repositories
-
-🌱 I’m currently learning to code better
-
-💬 Ask me about u want to 
+💬 I’m currently imporving my English
+🌱 I’m currently learning JS and working on writing better code
 
 
-
- ⚡ Fun fact: don´t give me a plant, it will die 
+ ⚡ Fun fact: don´t give me a plant, it'll die 
 
 🐆 🐗 🐖 🐌 🦔 🐑
 
