@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 🐆 🐗 🐖 🐌 🦔 🐑
 
 I'm Sayo an UX-designer and future frontend-developer with special interests in ✨ accessibility & human centered design. ✨ 
 
@@ -13,7 +13,7 @@ ______________________________________________
 
  ⚡ Fun fact: don´t give me a plant, it'll die 
 
-🐆 🐗 🐖 🐌 🦔 🐑
+
 
 
 my current tools:
