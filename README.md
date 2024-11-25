@@ -25,7 +25,7 @@ ______________________________________________
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
 
-![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?logo=discord&logoColor=white) ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?logo=google-meet&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B? ![Skype](https://img.shields.io/badge/<handle>-%2300AFF0.svg?logo=Skype&logoColor=white)logo=slack&logoColor=white) ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)
+![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?logo=discord&logoColor=white) ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?logo=google-meet&logoColor=white)  ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)) ![Skype](https://img.shields.io/badge/<handle>-%2300AFF0.svg?logo=Skype&logoColor=white) ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)
 
 <!--
 <pre>
