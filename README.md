@@ -6,7 +6,7 @@ I'm Sayo an UX-designer and future frontend-developer with special interests in 
 ______________________________________________
 🔭 I’m currently working on my repositories
 
-💬 I’m currently imporving my English
+💬 I’m currently improving my English
 
 🌱 I’m currently learning JS and working on writing better code
 
