@@ -5,7 +5,9 @@ I'm Sayo an UX-designer and future frontend-developer with special interest in �
 ✨UX is a matter of settings ✨
 ______________________________________________
 🔭 I’m currently working on my repositories
+
 💬 I’m currently imporving my English
+
 🌱 I’m currently learning JS and working on writing better code
 
 
