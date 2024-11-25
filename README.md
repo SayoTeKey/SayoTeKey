@@ -17,6 +17,7 @@ ______________________________________________
 
 
 my current tools:
+
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 	
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
@@ -26,7 +27,9 @@ my current tools:
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
 
+
 my current ways for communication:
+
 ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?logo=discord&logoColor=white) ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?logo=google-meet&logoColor=white)  ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white) ![Skype](https://img.shields.io/badge/<handle>-%2300AFF0.svg?logo=Skype&logoColor=white) ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)
 
 <!--
