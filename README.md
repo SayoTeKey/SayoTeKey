@@ -11,10 +11,12 @@ ______________________________________________
 🌱 I’m currently learning JS and working on writing better code
 
 .
-.
-.
-
  ⚡ Fun fact: don´t give me a plant, it'll die 
+. 
+. 
+. 
+
+
 
 
 
