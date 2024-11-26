@@ -1,8 +1,10 @@
-## Hi there 👋 🐆 🐗 🐖 🐌 🦔 🐑
+## Hi there 👋 🐆 🐗 🐖 🐌 🦔 🐑 Nice to see u ! 
 
-I'm Sayo an UX-designer and future frontend-developer with special interests in ✨ accessibility & human centered design. ✨ 
+# I'm Sayo an UX-designer and future frontend-developer with special interests in ✨ accessibility & human centered design. ✨ 
 
-✨UX is a matter of settings ✨
+>
+> ✨*UX* is a **matter of settings** ✨
+>
 ______________________________________________
 🔭 I’m currently working on my repositories
 
@@ -11,18 +13,15 @@ ______________________________________________
 🌱 I’m currently learning JS and working on writing better code
 
 ⚡ Fun fact: don´t give me a plant, it'll die 
+***
 
 .
 . 
 . 
-. 
+.
+---
 
-
-
-
-
-
-my current tools:
+# My current tools:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
