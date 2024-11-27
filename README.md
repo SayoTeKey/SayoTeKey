@@ -25,7 +25,7 @@ ______________________________________________
 <p align="center">
 <p >UX / UI </p>
 <a href="https://skillicons.dev">
-   [![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)](#)
+   [![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)]
    <img src="https://skillicons.dev/icons?i=miro,figma,sketchup" />
   </a>
   
