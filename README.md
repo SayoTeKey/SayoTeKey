@@ -24,8 +24,8 @@ ______________________________________________
 # My current tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" /> -->    
-    [![Atom](https://skillicons.dev/icons?i=atom&perline=3)]    [![CSS](https://skillicons.dev/icons?i=css&perline=3)]
+   <img src="https://skillicons.dev/icons?i=git,atom,css,dicsord,figma" />
+ <[![Atom](https://skillicons.dev/icons?i=atom&perline=3)]    [![CSS](https://skillicons.dev/icons?i=css&perline=5)]
     ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 	
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 <img src="https://img.shields.io/badge/-Miro-050038?style=flat&logo=miro&logoColor=white"/>
