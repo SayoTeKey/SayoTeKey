@@ -23,8 +23,8 @@ ______________________________________________
 
 # My current tools:
 <p align="center">
-<!--  <a href="https://skillicons.dev">
-
+<a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
 <img src="https://img.shields.io/badge/-Miro-050038?style=flat&logo=miro&logoColor=white"/>
 
   </a>
