@@ -23,12 +23,12 @@ ______________________________________________
 
 # My current tools:
 <p align="center">
-<p >UX-Tools </p>
+<p >UX / UI </p>
 <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=miro,figma,sketchzup,c,vim" />
+   <img src="https://skillicons.dev/icons?i=miro,figma,sketchup" />
   </a>
   
-  <p >Dev-Tools </p>
+  <p >Developement </p>
 <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=atom,vscode,git,github,js,html,css,tailwind" />
   </a>
