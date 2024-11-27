@@ -24,7 +24,7 @@ ______________________________________________
 # My current tools:
 <p align="center">
 <p >UX / UI </p>
-<img src="https://img.shields.io/badge/Miro-050038.svg?style=for-the-badge&logo=Miro&logoColor=white">
+<img src="https://img.shields.io/badge/Miro-050038.svg?style=for-the-badge&logo=Miro&logoColor=white"> <img src="[https://img.shields.io/badge/Miro-050038.svg?style=for-the-badge&logo=Miro&logoColor=white](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)">
 <img src="[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)]>
 <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=miro,figma,sketchup" />
