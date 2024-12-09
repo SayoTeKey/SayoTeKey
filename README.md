@@ -30,11 +30,9 @@ ______________________________________________
   
   <p >Developement </p>
 <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=atom,vscode,webstorm,git,github,js,html,css,tailwind" />
+   <img src="https://skillicons.dev/icons?i=atom,vscode,webstorm,git,github,js,html,css,tailwind,md" />
   </a>
 
-  
- ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 
 
 ## my current ways for communication:
