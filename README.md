@@ -30,7 +30,7 @@ ______________________________________________
   
   <p >Developement </p>
 <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=atom,vscode,git,github,js,html,css,tailwind" />
+   <img src="https://skillicons.dev/icons?i=atom,vscode,webstorm,git,github,js,html,css,tailwind" />
   </a>
 
   
