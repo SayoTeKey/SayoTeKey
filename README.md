@@ -27,8 +27,9 @@
    <img src="https://skillicons.dev/icons?i=atom,vscode,webstorm,vite,git,github,js,ts,jquery,html,css,tailwind,md" align="center" />
   </a>
 <br>
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sayotekey&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
----
+<br>
 
 ## my current ways for communication:
 
