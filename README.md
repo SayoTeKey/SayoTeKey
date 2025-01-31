@@ -5,7 +5,7 @@
 >
 > ✨*UX* is a **matter of settings** ✨
 >
-______________________________________________
+
 🔭 I’m currently working on my repositories
 
 💬 I’m currently improving my English
