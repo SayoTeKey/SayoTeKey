@@ -33,7 +33,7 @@ ______________________________________________
    <img src="https://skillicons.dev/icons?i=atom,vscode,webstorm,vite,git,github,js,ts,jquery,html,css,tailwind,md" />
   </a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=..&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sayotekey&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 ---
 ## my current ways for communication:
 
