@@ -24,9 +24,9 @@
 --- 
   <p >Development </p>
 <a>
-   <img src="https://skillicons.dev/icons?i=atom,vscode,webstorm,vite,git,github,js,ts,jquery,html,css,tailwind,md" , align="center" />
+   <img src="https://skillicons.dev/icons?i=atom,vscode,webstorm,vite,git,github,js,ts,jquery,html,css,tailwind,md" align="center" />
   </a>
-
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sayotekey&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 ---
 ## my current ways for communication:
