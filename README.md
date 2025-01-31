@@ -27,7 +27,7 @@ ______________________________________________
 <img src="https://img.shields.io/badge/Miro-050038.svg?style=for-the-badge&logo=Miro&logoColor=white"><img src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/SketchUp-005F9E.svg?style=for-the-badge&logo=SketchUp&logoColor=white">
 
-
+<hr>
   <p >Developement </p>
 <a>
    <img src="https://skillicons.dev/icons?i=atom,vscode,webstorm,vite,git,github,js,ts,jquery,html,css,tailwind,md" />
