@@ -15,12 +15,6 @@ ______________________________________________
 ⚡ Fun fact: don´t give me a plant, it'll die 
 ***
 
-.
-. 
-. 
-.
----
-
 # My current tools:
 <p align="center">
 <p >UX / UI </p>
