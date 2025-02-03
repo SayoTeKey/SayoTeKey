@@ -18,7 +18,11 @@
 # My current tools:
 
 <p>UX / UI</p>
-<img src="https://img.shields.io/badge/Miro-050038.svg?style=for-the-badge&logo=Miro&logoColor=white"><img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"><img src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"><img src="https://img.shields.io/badge/SketchUp-005F9E.svg?style=for-the-badge&logo=SketchUp&logoColor=white">
+
+<img src="https://img.shields.io/badge/Miro-050038.svg?style=for-the-badge&logo=Miro&logoColor=white">
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
+
 
 --- 
   <p>Development</p>
