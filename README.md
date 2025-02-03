@@ -18,9 +18,9 @@
 # My current tools:
 
 <p>UX / UI</p>
-
+<a style="pointer-events: none"> 
 ![Miro](https://img.shields.io/badge/Miro-%23F5792A.svg?style=for-the-badge&logo=Miro&logoColor=white") ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
-
+</a>
 
 --- 
   <p>Development</p>
