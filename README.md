@@ -31,7 +31,7 @@
 --- 
 <p>Development</p>
 <a>
-   <img src="https://skillicons.dev/icons?i=atom,vscode,webstorm,vite,react,git,github,js,ts,jquery,html,css,tailwind,md" align="center" />
+   <img src="https://skillicons.dev/icons?i=atom,vscode,webstorm,mongodb,vite,react,git,github,js,ts,html,css,tailwind,md" align="center" />
   </a>
 <br>
 <br>
