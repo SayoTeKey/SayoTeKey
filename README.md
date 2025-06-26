@@ -6,7 +6,8 @@
 >
 > ✨*UX* is a **matter of settings** ✨
 >
-- I'm working on my skills with help of : <br><br>	![DigitalCareerInstitute](https://img.shields.io/badge/DigitalCareerInstitute-%230056D2.svg?style=for-the-badge&logoColor=white) ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green) ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white) ![Mimo](https://img.shields.io/badge/Mimo_App-05192D?style=for-the-badge&logoColor=03E860)
+- I'm working on my skills with help of :
+</br>	![DigitalCareerInstitute](https://img.shields.io/badge/DigitalCareerInstitute-%230056D2.svg?style=for-the-badge&logoColor=white) ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green) ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white) ![Mimo](https://img.shields.io/badge/Mimo_App-05192D?style=for-the-badge&logoColor=03E860)
 
 - 🔭 I’m working on my repositories
 
@@ -15,10 +16,8 @@
 
 - ⚡ I’m currently learning : ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   <br/>
-  <br/>  
-  
-***
-🌱 Fun fact: don´t give me a plant, it'll die 
+´
+- 🌱 Fun fact: don´t give me a plant, it'll die 
 ***
 
 ### My current tools:
@@ -31,7 +30,9 @@
 --- 
 <p>Development</p>
 <a>
-   <img src="https://skillicons.dev/icons?i=atom,vscode,webstorm,mongodb,vite,react,git,github,js,ts,html,css,tailwind,md" align="center" />
+   <img src="https://skillicons.dev/icons?i=html,css,md,js,ts,bootstrap,tailwind,vite,react,mongodb,nodejs,nextjs" align="center" />
+</br>
+   <img src="https://skillicons.dev/icons?i=atom,vscode,webstorm,git,github," align="center" />
   </a>
 <br>
 <br>
