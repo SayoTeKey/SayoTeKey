@@ -25,15 +25,18 @@
 <p>UX / UI</p>
 
 ![Miro](https://img.shields.io/badge/Miro-%23F5792A.svg?style=for-the-badge&logo=Miro&logoColor=white)
- ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)  ![Zeplin](https://img.shields.io/badge/zeplin-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+ ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)  ![Zeplin](https://img.shields.io/badge/zeplin-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)  
 
 --- 
 <p>Development</p>
-<a>
-   <img src="https://skillicons.dev/icons?i=html,css,md,js,ts,bootstrap,tailwind,vite,react,mongodb,nodejs,nextjs" align="center" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,vite,react,mongodb,express,nodejs,nextjs,vercel,render" align="center" />
 </br>
-   <img src="https://skillicons.dev/icons?i=atom,vscode,webstorm,git,github," align="center" />
-  </a>
+
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge)
+
+<img src="https://skillicons.dev/icons?i=atom,vscode,webstorm,git,github,md,postman,insomnia" align="center" />
+
 <br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sayotekey&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
