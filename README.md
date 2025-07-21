@@ -30,7 +30,7 @@
 --- 
 <p>Development</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,vite,react,mongodb,express,nodejs,nextjs,vercel,render" align="center" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,vite,react,mongodb,express,nodejs,nextjs" align="center" />
 </br>
 
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge)
