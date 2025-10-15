@@ -1,11 +1,12 @@
 🐆 _🐗 _ 🐖 _🐌 _🦔 _🐑 
 # Hi there 👋 
-## I'm Sayo an UX-designer and web-developer with special interests in frontend, accessibility & human centered design. 
->
-> ✨**UX is a matter of settings** ✨
->
->
-### - I'm working on my skills with help of :
+✨**UX is a matter of settings** ✨
+</br>
+
+### I'm Sayo a passionated UX-designer and web-developer with special interests in frontend, accessibility & human centered design. 
+
+
+#### I'm working on my skills with help of :
 </br>
 
 ![DCI DigitalCareerInstitute](https://img.shields.io/badge/Digital_Career_Institute-%230056D2.svg?style=for-the-badge&logoColor=white)  ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green) ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
@@ -13,16 +14,16 @@
 - ⚡ I’m currently learning : ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   <br/>
 ***
-
+***
 ### My tools:
 
-<p>UX / UI</p>
+- <p>UX / UI</p>
 
 ![Miro](https://img.shields.io/badge/Miro-%23F5792A.svg?style=for-the-badge&logo=Miro&logoColor=white)
  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)  ![Zeplin](https://img.shields.io/badge/zeplin-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)  
 
---- 
-<p>Development</p>
+
+- <p>Development</p>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,vite,react,mongodb,express,nodejs,nextjs" align="center" />
 </br>
