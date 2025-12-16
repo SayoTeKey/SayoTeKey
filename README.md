@@ -11,7 +11,7 @@
 
 ![DCI DigitalCareerInstitute](https://img.shields.io/badge/Digital_Career_Institute-%230056D2.svg?style=for-the-badge&logoColor=white)  ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green) ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 
-- ⚡ I’m currently learning : ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+- ⚡ I’m currently learning : ![Python](https://img.shields.io/badge/python-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=yellow)
   <br/>
 ***
 ***
@@ -25,7 +25,7 @@
 
 - <p>Development</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,vite,react,mongodb,express,nodejs,nextjs" align="center" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,bootstrap,tailwind,vite,react,mongodb,express,nodejs,nextjs" align="center" />
 </br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sayotekey&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
