@@ -5,17 +5,9 @@
 
 ### I'm Sayo a passionated UX-designer and web-developer with special interests in frontend, accessibility & human centered design. 
 
+<br/>
 
-#### I'm working on my skills with help of :
-</br>
-
-![DCI DigitalCareerInstitute](https://img.shields.io/badge/Digital_Career_Institute-%230056D2.svg?style=for-the-badge&logoColor=white)  ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green) ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
-
-- ⚡ I’m currently learning : ![Python](https://img.shields.io/badge/python-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=yellow)
-  <br/>
-***
-***
-### My tools:
+## Tech-Stack:
 
 - <p>UX / UI</p>
 
@@ -33,14 +25,15 @@
 
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge)
 
-<img src="https://skillicons.dev/icons?i=atom,vscode,webstorm,git,github,md,postman,insomnia" align="center" />
+<img src="https://skillicons.dev/icons?i=atom,vscode,pycharm,webstorm,git,github,md,postman,insomnia" align="center" />
 
 <br>
 
 
 ### my ways for communication:
 
- ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white) ![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?logo=Skype&logoColor=white) ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)  ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?logo=google-meet&logoColor=white)  ![TeamSpeack](https://img.shields.io/badge/TeamSpeack-2580C3?logo=teamspeak&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white) ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white) 	![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white)  ![Messenger](https://img.shields.io/badge/Messenger-00B2FF?logo=messenger&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white) 	![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)
+ ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white) ![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?logo=Skype&logoColor=white) ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)  ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?logo=google-meet&logoColor=white)  ![TeamSpeak](https://img.shields.io/badge/TeamSpeack-2580C3?logo=teamspeak&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white) ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white) 	![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white)  <br/>
+ ![Messenger](https://img.shields.io/badge/Messenger-00B2FF?logo=messenger&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white) 	![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)  ![Teams](https://img.shields.io/badge/Teams-2580C3?logo=teams&logoColor=white)
 
 
 
