@@ -3,7 +3,7 @@
 ✨**UX is a matter of settings** ✨
 </br>
 
-### I'm Sayo a passionated UX-designer and web-developer with special interests in frontend, accessibility & human centered design. 
+ <p>I'm Sayo a passionated UX-designer and web-developer with special interests in frontend, accessibility & human centered design. </p>
 
 <br/>
 
@@ -14,29 +14,19 @@
 ![Miro](https://img.shields.io/badge/Miro-%23F5792A.svg?style=for-the-badge&logo=Miro&logoColor=white)
  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)  ![Zeplin](https://img.shields.io/badge/zeplin-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)  
 
+<br/>
 
 - <p>Development</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,bootstrap,tailwind,vite,react,mongodb,express,nodejs,nextjs" align="center" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,tailwind,bootstrap,react,express,nodejs,nextjs,mongodb" align="center" />
 </br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sayotekey&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <br>
 
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge)
-
-<img src="https://skillicons.dev/icons?i=atom,vscode,pycharm,webstorm,git,github,md,postman,insomnia" align="center" />
-
+<img src="https://skillicons.dev/icons?i=vite,vscode,pycharm,webstorm,git,github,md,postman" align="center" />
 <br>
 
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge)
+<br>
 
-### my ways for communication:
-
- ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white) ![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?logo=Skype&logoColor=white) ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)  ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?logo=google-meet&logoColor=white)  ![TeamSpeak](https://img.shields.io/badge/TeamSpeack-2580C3?logo=teamspeak&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white) ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white) 	![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white)  <br/>
- ![Messenger](https://img.shields.io/badge/Messenger-00B2FF?logo=messenger&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white) 	![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)  ![Teams](https://img.shields.io/badge/Teams-2580C3?logo=teams&logoColor=white)
-
-
-
-<!--
-**SayoTeKey/SayoTeKey** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
