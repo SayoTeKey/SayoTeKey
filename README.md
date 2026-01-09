@@ -21,10 +21,9 @@
 <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,tailwind,bootstrap,react,express,nodejs,nextjs,mongodb" align="center" />
 </br>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sayotekey&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-<br>
 
 <img src="https://skillicons.dev/icons?i=vite,vscode,pycharm,webstorm,git,github,md,postman" align="center" />
+
 <br>
 
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge)
